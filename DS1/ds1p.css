@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(./DSquestGuide/DS1/imgDS1/ds1gif.gif);
+    background-image: url(/DSquestGuide/DS1/imgDS1/ds1gif.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
